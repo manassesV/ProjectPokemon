@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "868047850021",
+    "firebase_url": "https://mobileandroid-27bbe.firebaseio.com",
+    "project_id": "mobileandroid-27bbe",
+    "storage_bucket": "mobileandroid-27bbe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:868047850021:android:17de3b5f692bedc6",
+        "android_client_info": {
+          "package_name": "com.example.logonrmlocal.projectpokemon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "868047850021-56okul4b0po7jkfbm2j9t0ggdb9r1dds.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.logonrmlocal.projectpokemon",
+            "certificate_hash": "beb224284730e1ec2ea6857c4e52af0c0438cd6c"
+          }
+        },
+        {
+          "client_id": "868047850021-vk6ukn0j66at0sh8c7utdvul99ah3gn6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYi17m2kyuXoFwWnkcrS6W1x9cB8RasL4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "868047850021-vk6ukn0j66at0sh8c7utdvul99ah3gn6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
